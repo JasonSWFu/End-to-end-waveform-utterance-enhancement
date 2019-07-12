@@ -2,12 +2,12 @@
 
 
 ### Introduction
-MetricGAN is a Generative Adversarial Networks (GAN) based black-box metric scores optimization method.
-By associating the discriminator (D) with the metrics of interest, MetricGAN can be treated as an iterative
-process between surrogate loss learning and generator learning as shown in the following figure.
+This paper tries to solve the mismatch between training objective function and evaluation metrics which are usually highly correlated to human perception. Due to the inconsistency, there is no guarantee that the trained model can provide optimal performance in applications. In this study, we propose an end-to-end utterance-based speech enhancement framework using fully convolutional neural networks (FCN) to reduce the gap between the model optimization and the evaluation criterion. Because of the utterance-based optimization, temporal correlation information of long speech segments, or even at the entire utterance level, can be considered to directly optimize perception-based objective functions.
 
-This code (developed with Keras) applies MetricGAN to optimize PESQ or STOI score for Speech Enhancement.
-It can be easily extended to optimize other metrics.
+### Major Contribution
+1) Utterance-based waveform enhancement
+2) Direct short-time objective intelligibility (STOI) score optimization (without any approximation)
+
 
 For more details and evaluation results, please check out our  [paper](https://ieeexplore.ieee.org/document/8331910).
 
