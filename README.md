@@ -2,7 +2,7 @@
 
 
 ### Introduction
-This paper tries to solve the mismatch between training objective function and evaluation metrics which are usually highly correlated to human perception. Due to the inconsistency, there is no guarantee that the trained model can provide optimal performance in applications. In this study, we propose an end-to-end utterance-based speech enhancement framework using fully convolutional neural networks (FCN) to reduce the gap between the model optimization and the evaluation criterion. Because of the utterance-based optimization, temporal correlation information of long speech segments, or even at the entire utterance level, can be considered to directly optimize perception-based objective functions.
+This paper tries to solve the mismatch (as in Fig.1) between training objective function and evaluation metrics which are usually highly correlated to human perception. Due to the inconsistency, there is no guarantee that the trained model can provide optimal performance in applications. In this study, we propose an end-to-end utterance-based speech enhancement framework using fully convolutional neural networks (FCN) to reduce the gap between the model optimization and the evaluation criterion. Because of the utterance-based optimization, temporal correlation information of long speech segments, or even at the entire utterance level, can be considered to directly optimize perception-based objective functions.
 
 ### Major Contribution
 1) Utterance-based waveform enhancement
@@ -12,7 +12,6 @@ This paper tries to solve the mismatch between training objective function and e
 For more details and evaluation results, please check out our  [paper](https://ieeexplore.ieee.org/document/8331910).
 
 ![teaser](https://github.com/JasonSWFu/End-to-end-waveform-utterance-enhancement/blob/master/images/Fig1.png)
-![teaser](https://github.com/JasonSWFu/End-to-end-waveform-utterance-enhancement/blob/master/images/E2E.png)
 ![teaser](https://github.com/JasonSWFu/End-to-end-waveform-utterance-enhancement/blob/master/images/t2.gif)
 
 ### Dependencies:
