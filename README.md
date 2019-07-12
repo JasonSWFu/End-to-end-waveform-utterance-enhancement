@@ -12,6 +12,8 @@ This paper tries to solve the mismatch between training objective function and e
 For more details and evaluation results, please check out our  [paper](https://ieeexplore.ieee.org/document/8331910).
 
 ![teaser](https://github.com/JasonSWFu/End-to-end-waveform-utterance-enhancement/blob/master/images/Fig1.png)
+![teaser](https://github.com/JasonSWFu/End-to-end-waveform-utterance-enhancement/blob/master/images/E2E.png)
+![teaser](https://github.com/JasonSWFu/End-to-end-waveform-utterance-enhancement/blob/master/images/t2.gif)
 
 ### Dependencies:
 * Python 2.7
