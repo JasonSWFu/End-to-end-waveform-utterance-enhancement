@@ -11,7 +11,7 @@ This paper tries to solve the mismatch (as in Fig.1) between training objective 
 
 For more details and evaluation results, please check out our  [paper](https://ieeexplore.ieee.org/document/8331910).
 
-![teaser](https://github.com/JasonSWFu/End-to-end-waveform-utterance-enhancement/blob/master/images/Fig1.png)
+![teaser](https://github.com/JasonSWFu/End-to-end-waveform-utterance-enhancement/blob/master/images/Fig1_2.png)
 ![teaser](https://github.com/JasonSWFu/End-to-end-waveform-utterance-enhancement/blob/master/images/t2.gif)
 
 ### Dependencies:
