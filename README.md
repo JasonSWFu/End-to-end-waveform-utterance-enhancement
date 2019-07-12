@@ -13,7 +13,7 @@ For more details and evaluation results, please check out our  [paper](https://i
 
 ![teaser](https://github.com/JasonSWFu/End-to-end-waveform-utterance-enhancement/blob/master/images/Fig1_3.png)
 
-Waveform enhancement process:
+### Waveform enhancement process:
 
 ![teaser](https://github.com/JasonSWFu/End-to-end-waveform-utterance-enhancement/blob/master/images/t2.gif)
 
