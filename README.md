@@ -11,7 +11,7 @@ This paper tries to solve the mismatch between training objective function and e
 
 For more details and evaluation results, please check out our  [paper](https://ieeexplore.ieee.org/document/8331910).
 
-![teaser](https://github.com/JasonSWFu/MetricGAN/blob/master/images/MetricGAN_learning.png)
+![teaser](https://github.com/JasonSWFu/End-to-end-waveform-utterance-enhancement/blob/master/images/Fig1.png)
 
 ### Dependencies:
 * Python 2.7
